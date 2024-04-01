@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AviaMediator\AviaMediator\bin\Debug\AviaMediator.exe.config
+C:\Users\User\source\repos\AviaMediator\AviaMediator\bin\Debug\AviaMediator.exe
+C:\Users\User\source\repos\AviaMediator\AviaMediator\bin\Debug\AviaMediator.pdb
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.Properties.Resources.resources
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.exe
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.pdb
+C:\Users\User\source\repos\AviaMediator\AviaMediator\obj\Debug\AviaMediator.Form1.resources
